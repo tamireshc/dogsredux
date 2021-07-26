@@ -4,7 +4,6 @@ import useForm from "../../Hooks/useForm";
 import Input from "../Forms/Input";
 import Button from "../Forms/Button";
 import Error from "../Helper/Error";
-import { PHOTO_POST } from "../../Api";
 import { useNavigate } from "react-router-dom";
 import Head from "../Helper/Head";
 import { useDispatch, useSelector } from "react-redux";
